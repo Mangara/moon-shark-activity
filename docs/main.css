@@ -4,3 +4,11 @@ body {
 	color: #eaebec;
 	margin: 0;
 }
+
+h1 {
+	font-family: 'Rubik Moonrocks', sans-serif;
+	font-weight: normal;
+	font-size: 4em;
+	text-align: center;
+	margin: 0.25em 0;
+}
